@@ -822,7 +822,7 @@
     "Tvos": false,
     "sDynamic": false
   },
-    {
+  {
     "githubUrl": "https://github.com/Kuikly-contrib/KuiklyMap",
     "examples": [
       "https://github.com/Kuikly-contrib/KuiklyMap/blob/main/shared/src/commonMain/kotlin/com/example/myapplication/MapDemoPage.kt"
